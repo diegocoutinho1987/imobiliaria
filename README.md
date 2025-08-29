@@ -10,4 +10,4 @@ Ao criar esse projeto, coloquei em prática os seguintes conceitos:
   <li>Seletores CSS</li>
 </ul>
 <p>Link do projeto no ar</p>
-<a href="https://diegocoutinho.com.br/projetos/background/" target="_blank">Página Imobiliária</a>
+<a href="https://diegocoutinho.com.br/projetos/imobiliaria/" target="_blank">Página Imobiliária</a>
